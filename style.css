@@ -8,7 +8,15 @@ body {
 }
 
 .list {
+    display:inline-block;
     color: lightcoral;
     font-size: 25px;
     text-align: left;
+    margin: auto;
+}
+
+a {
+    display: block;
+    padding: 10px;
+    margin: 10px;
 }
